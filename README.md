@@ -5,7 +5,7 @@ A Material Design (3rd-party) NHentai client for Android.
 
 WARNING: This application contains sexually explicit content that is not suitable for minors.
 
-You can download release version from here: https://github.com/fython/NHentai-android/releases
+You can get more information about the kinds of content you should avoid: http://blog.hidemysearches.com/benefits-of-search-anonymity/
 
 ## Suspension of maintenance
 
